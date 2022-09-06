@@ -1,0 +1,96 @@
+/*variables*/
+/*header section*/
+header {
+  background: white;
+  display: flex;
+  display: inline-flex;
+  align-items: center;
+  justify-content: space-between;
+}
+
+.logopst {
+  position: relative;
+  top: 20px;
+  margin-left: 100px;
+}
+
+nav ul {
+  position: relative;
+  margin-left: 1000px;
+}
+nav li {
+  display: inline-block;
+}
+nav a {
+  display: block;
+  padding: 6px 12px;
+  text-decoration: none;
+}
+nav button {
+  background: rgba(255, 77, 0, 0.964);
+}
+
+/*body section*/
+#body-size {
+  width: -webkit-fit-content;
+  width: -moz-fit-content;
+  width: fit-content;
+  line-height: 1vh;
+}
+
+button {
+  background: rgba(255, 77, 0, 0.964);
+}
+
+p {
+  display: flex;
+}
+
+#bckgrnd {
+  background: rgb(224, 235, 241);
+  line-height: 2vh;
+}
+
+#align-right {
+  justify-content: right;
+  display: flex;
+  position: relative;
+  top: -200px;
+  left: -250px;
+}
+
+.margin-right {
+  margin: 10px;
+}
+
+.content {
+  position: relative;
+  top: 80px;
+  margin-left: 100px;
+}
+
+#text-color {
+  color: rgba(255, 77, 0, 0.964);
+}
+
+.font {
+  font-size: 30px;
+  font-weight: bold;
+}
+
+/*footer section*/
+footer {
+  background: white;
+}
+
+.text-right {
+  display: flex;
+  justify-content: center;
+  font-size: 30px;
+  font-weight: bold;
+  line-height: 2vh;
+}
+
+.margin-left {
+  margin: 50px;
+}/*# sourceMappingURL=style.css.map */
